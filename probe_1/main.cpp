@@ -13,5 +13,9 @@ int main()
 	for(i=0;i<30;i++){
 		cout << "Hello Eric!" << endl;
 	}
-    return 0;
+
+
+
+
+    return 4;
 }
